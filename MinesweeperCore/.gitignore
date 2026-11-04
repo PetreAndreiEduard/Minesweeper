@@ -1,0 +1,28 @@
+# Visual Studio build artifacts & caches
+.vs/
+*.user
+Debug/
+Release/
+x64/
+x86/
+build/
+*.lib
+*.obj
+*.pdb
+*.idb
+*.tlog
+*.log
+*.ilk
+*.pch
+
+# NuGet
+packages/
+
+# Qt generated files
+GeneratedFiles/
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.qmlc
+*.jsc
