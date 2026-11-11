@@ -6,8 +6,17 @@
 class IMinesweeperGame {
 public:
     virtual ~IMinesweeperGame() = default;
+
     virtual void startNewGame(Difficulty difficulty) = 0;
     virtual void revealCell(int row, int col) = 0;
     virtual void toggleFlag(int row, int col) = 0;
     virtual void addObserver(std::shared_ptr<IMinesweeperObserver> observer) = 0;
+
+    virtual int getRows() const = 0;
+    virtual int getCols() const = 0;
+    virtual int getMineCount() const = 0;
+    virtual int getFlagCount() const = 0;
+    virtual GameState getGameState() const = 0;
+    virtual CellState getCellState(int row, int col) const = 0;
+    virtual bool isMine(int row, int col) const = 0;
 };

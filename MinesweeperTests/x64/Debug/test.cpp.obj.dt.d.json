@@ -183,7 +183,10 @@
             "c:\\users\\adype\\facultateanul3\\minesweeper\\minesweepercore\\packages\\gmock.1.11.0\\lib\\native\\include\\gmock\\gmock-more-actions.h",
             "c:\\users\\adype\\facultateanul3\\minesweeper\\minesweepercore\\packages\\gmock.1.11.0\\lib\\native\\include\\gmock\\internal\\custom\\gmock-generated-actions.h",
             "c:\\users\\adype\\facultateanul3\\minesweeper\\minesweepercore\\packages\\gmock.1.11.0\\lib\\native\\include\\gmock\\gmock-more-matchers.h",
-            "c:\\users\\adype\\facultateanul3\\minesweeper\\minesweepercore\\packages\\gmock.1.11.0\\lib\\native\\include\\gmock\\gmock-nice-strict.h"
+            "c:\\users\\adype\\facultateanul3\\minesweeper\\minesweepercore\\packages\\gmock.1.11.0\\lib\\native\\include\\gmock\\gmock-nice-strict.h",
+            "c:\\users\\adype\\facultateanul3\\minesweeper\\minesweepercore\\iminesweepergame.h",
+            "c:\\users\\adype\\facultateanul3\\minesweeper\\minesweepercore\\enums.h",
+            "c:\\users\\adype\\facultateanul3\\minesweeper\\minesweepercore\\iminesweeperobserver.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

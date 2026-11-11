@@ -158,6 +158,7 @@
     <ClInclude Include="Enums.h" />
     <ClInclude Include="IMinesweeperGame.h" />
     <ClInclude Include="IMinesweeperObserver.h" />
+    <ClInclude Include="MinesweeperCore.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
